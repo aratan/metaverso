@@ -5,6 +5,6 @@ tambien hay un video que se para con la tecla p
 
 Movimiento en primera persona con w,s,a,d, y giro con q,e. 
 una luz direccional y una luz ambiente
-
+ chat por websocket
 
 Pendiente poner un objeto 3d de blender y darle movimiento 2024
